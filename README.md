@@ -1,1 +1,1 @@
-# -Full-stack-eccommerce-projcect
+# -Full-stack-eccommerce-project
